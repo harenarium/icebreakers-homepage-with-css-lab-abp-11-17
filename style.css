@@ -75,15 +75,15 @@ div.questions{
   padding: 0 20px 0 20px;
   
 }
-/* 
 
-#### `div.questions`
+div.questions h4{
+  font-size: 30px;
+  margin-bottom: 40px;
+}
 
-Make the `div` with the `class` `questions` have a `0` top and bottom padding and a `20px` left and right padding.
+/*
 
-#### `div.questions h4`
 
-Make the `h4` that contains the question content within the `div.questions` have a font size of `30px` and a `10px` bottom margin.
 
 #### `div.questions a.btn`
 
