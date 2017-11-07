@@ -73,7 +73,7 @@ div.jumbotron{
 
 div.questions{
   padding: 0 20px 0 20px;
-  
+
 }
 
 div.questions h4{
@@ -81,13 +81,22 @@ div.questions h4{
   margin-bottom: 40px;
 }
 
+div.questions a.btn{
+  border-radius: 5px;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
+}
+
 /*
 
 
 
-#### `div.questions a.btn`
+#### 
 
-`a` tags with a `class` of `btn` within the `div.questions` should have a `5px` rounded border, `#FFF` white text color, a background and border color of `#007bff`, no underline, an `18px` padding, and a `20px` font size.
 
 #### `div.questions a.btn:hover`
 
