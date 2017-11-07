@@ -96,13 +96,13 @@ div.questions a.btn:hover{
   border-color: #0069d9;
 }
 
+footer{
+  border-top: 1px solid #CCC;
+  margin-top: 80px;
+  padding-top: 20px;
+  color: #CCC;
+}
+
 /*
 
-
-#### `div.questions a.btn:hover`
-
-On hover, our pill buttons should change background and border color to `#0069d9`.
-
-### `footer`
-
-Make the footer of the site have a `1px` `solid` `#CCC` top border, an `80px` top margin, a `20px` top padding, and a color of `#CCC`.*/
+ an `80px` top margin, a `20px` top padding, and a color of `#CCC`.*/
